@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MahmudunNabi-N/first-assignment.git
 git push -u origin main
+
+git config --global user.name "Your New Name"
+git config --global user.email "your-new-email@example.com"
