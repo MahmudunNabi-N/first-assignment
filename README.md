@@ -10,4 +10,4 @@ A modern developer conference landing page built using HTML and CSS. This projec
 **Tools:** Git · VS Code · Git Hub
 
 ## Contact
-**Live URL:** [Live Site]([https://yourdomain.com/](https://mahmudunnabi-n.github.io/first-assignment))
+**Live URL:** [Live Site](https://mahmudunnabi-n.github.io/first-assignment))
