@@ -10,4 +10,5 @@ A modern developer conference landing page built using HTML and CSS. This projec
 **Tools:** Git · VS Code · Git Hub
 
 ## Contact
-**Live URL:** [Live Site](https://mahmudunnabi-n.github.io/first-assignment))
+**Live URL:** [DevConf2026](https://mahmudunnabi-n.github.io/first-assignment)
+**Email:** [Mahmudun Nabi](mnnahid.me@gmail.com)
